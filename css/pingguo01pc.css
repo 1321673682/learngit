@@ -1,0 +1,239 @@
+@media screen and (min-width:600px ) and (max-width:1800px) {
+  #xx,.bb {
+    display: none;
+  }
+  #ww {
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    background-color: rgb(64, 64, 64);
+    display: block;
+  }
+  .qq {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(64, 64, 64);
+  }
+  .qq {
+    width: 1000px;
+    height: 40px;
+    margin: 0 auto;
+  }
+  .qq04 {
+    width: 100%;
+    height: 40px;
+    text-align: right;
+    line-height: 40px;
+  }
+  .qq01 { 
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    line-height: 40px;
+  }
+  .qq02 {
+    width: 900px;
+    height: 40px;
+    margin: 0 auto;
+  }
+  ul {
+    display: flex;
+    
+  }
+  li {
+    width: 100px;
+    height: 40px;
+    list-style: none;
+    float: left;
+    color: rgb(124, 120, 120);
+    text-align: center;
+    justify-content: center;
+  }
+  li>span {
+    color: rgb(194, 186, 181);
+  }
+  li:hover {
+    color: white;
+    cursor: pointer;
+  }
+  li>span:hover {
+    color: white;
+    cursor: pointer;
+  }
+  /* 大图片 */
+  .ee {
+    width: 100%;
+    height: 624px;
+    background-image: url(../images/1.jpg);
+    background-repeat: no-repeat;
+    background-position:50% 50% ;
+    color: white;
+    padding-top: 80px;
+  }
+  .ee01 {
+    width: 100%;
+    height: 624px;
+    background-image: url(../images/2.jpg);
+    background-repeat: no-repeat;
+    background-position:50% 50% ;
+    margin-top: -40px;
+  }
+  .ee02 {
+    width: 100%;
+    height: 624px;
+    background-image: url(../images/3.jpg);
+    background-repeat: no-repeat;
+    background-position:50% 50% ;
+  }
+  h2 {
+    font-size: 50px;
+    text-align: center;
+    line-height: 200px;
+    height: 120px;
+  }
+  h3 {
+    text-align: center;
+    font-size: 26px;
+  }
+  h5 {
+    text-align: center;
+    font-size: 14px;
+  }
+  div{
+    padding: 0 50%;
+    text-align: center;
+    line-height: 40px;
+  }
+  a {
+    color: blue;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .rr {
+    width: 100%;
+    height: 1800px;
+  }
+  .rr01 {
+    width: 910px;
+    height: 580px;
+    margin: 10px 10px 5px 10px; 
+    background: url(../images/boy.jpg) no-repeat 50% 50%/910px 580px;    
+  }
+  .rr02 {
+    width: 910px;
+    height: 580px;
+    margin: 10px 10px 5px 10px;
+    background: url(../images/car.jpg) no-repeat 50% 50%/910px 580px;
+    
+
+  }
+  .rr03 {
+    width: 910px;
+    height: 580px;
+    margin: 5px 10px 5px 10px;
+    background: url(../images/computer.jpg) no-repeat 50% 50%/910px 580px;
+  }
+  .rr04 {
+    width: 910px;
+    height: 580px;
+    margin: 5px 10px 5px 10px;
+    background: url(../images/airpods.jpg) no-repeat 50% 50%/910px 580px;
+  }
+  .rr05 {
+    width: 910px;
+    height: 580px;
+    margin: 5px 10px 5px 10px;
+    background: url(../images/watch2.jpg) no-repeat 50% 50%/910px 580px;
+  }
+  .rr06 {
+    width: 910px;
+    height: 580px;
+    margin: 5px 10px 5px 10px;
+    background: url(../images/apple_music.jpg) no-repeat 50% 50%/910px 580px;
+
+  }
+  p {
+    font-size: 50px;
+  }
+  h6 {
+    font-size: 20px;
+  }
+  h4 {
+    font-size: 14px;
+  }
+  .yy {
+    width: 100%;
+    height: 600px;
+    justify-content: space-between;
+    display: flex;
+
+  }
+  .aa {
+    width: 100%;
+    height: 680px;
+  }
+  .aa01 {
+    width: 710px;
+    height: 150px;
+    margin: 0 auto;
+    border-bottom: 1px solid black;
+  }
+  .aa02 {
+    width: 710px;
+    height: 100px;
+    margin-top: 50px;
+    font-size: 8px;
+    line-height: normal;
+  }
+  #aa03 {
+    width: 710px;
+    height: 30px;
+  }
+  p {
+    font-size: 12px;
+    line-height: 20px;
+    text-align: left;
+
+  }
+
+  .ss {
+    width: 710px;
+    height: 250px;
+    /* border: 1px solid black; */
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-around;
+  }
+  dl {
+    font-size: 10px;
+    line-height: 20px;
+    text-align: left;
+    /* margin: 0 20px 0; */
+  }
+  dt {
+    margin: 20px;
+    font-weight: 700;
+  }
+  dd>a {
+    text-align: left;
+    color: black;
+  }
+  .call {
+    width: 710px;
+    height: 20px;
+    margin: 0px auto 0;
+    border-bottom: 1px solid black;
+  }
+ .foot {
+   width: 710px;
+   height: 200px;
+   margin: -185px auto 0;
+ }
+ .foot1 {
+   color: rgb(109, 106, 106);
+ }
+
+} 
